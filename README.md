@@ -1,0 +1,1 @@
+"A beautifully designed coffee shop website built with HTML, CSS, and JavaScript. It features an elegant layout, smooth navigation, and interactive elements to enhance user experience. Showcasing menu items, special offers, and contact details, this website creates an inviting digital presence for coffee lovers."
