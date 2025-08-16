@@ -1,4 +1,4 @@
-Coffee Shop Website
+Coffee Shop Website 🔗 Live Demo: https://coffeeshopfrontend.netlify.app/
 
 A beautifully designed coffee shop website built with HTML, CSS, and JavaScript. This project features an elegant, responsive layout with smooth navigation and interactive elements to create an inviting digital presence for coffee lovers.
 
